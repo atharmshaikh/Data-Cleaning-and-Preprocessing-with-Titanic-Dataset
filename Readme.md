@@ -138,13 +138,13 @@ githubtocolab.com
 For example:
 
 ```
-
+https://github.com/atharmshaikh/Data-Cleaning-and-Preprocessing-with-Titanic-Dataset
 ```
 
 becomes:
 
 ```
-
+https://githubtocolab.com/atharmshaikh/Data-Cleaning-and-Preprocessing-with-Titanic-Dataset
 ```
 
 4. Press Enter. The notebook will open directly in Google Colab.
