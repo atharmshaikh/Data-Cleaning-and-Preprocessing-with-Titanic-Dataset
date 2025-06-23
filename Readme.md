@@ -114,7 +114,7 @@ titanic_cleaned.csv
 
 1. Ensure Python is installed with `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scikit-learn`.
 2. Place `Titanic-Dataset.csv` in the same directory as the notebook.
-3. Open `preprocessing.ipynb` using Jupyter Notebook or VS Code.
+3. Open `Titanic-Dataset-Cleaning.ipynb` using Jupyter Notebook or VS Code.
 4. Run all cells sequentially.
 
 ### Option 2: Google Colab (Via GitHub)
