@@ -122,7 +122,7 @@ titanic_cleaned.csv
 If the GitHub preview of the notebook does not load, follow these steps:
 
 1. Open the GitHub link where the notebook is hosted.
-2. Click on `preprocessing.ipynb`.
+2. Click on `Titanic-Dataset-Cleaning.ipynb`.
 3. In the browser URL bar, change:
 
 ```
